@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/DarpanSaini100/ci-cd-pipeline-exp.git'
+                git 'https://github.com/DarpanSaini100/ci-cd-pipline-exp.git'
             }
         }
 
